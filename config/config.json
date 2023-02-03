@@ -1,0 +1,11 @@
+{
+  "supported_documents": ["NOTICE OF FEDERAL TAX LIEN" , "INTERNAL REVENUE SERVICE" ,
+    "SMALL BUSINESS NOTICE OF FEDERAL TAX LIEN" , "INTERNAL REVENUE SERVICE" ,
+    "LARGE BUSINESS NOTICE OF STATE TAX LIEN" , "FRANCHISE TAX BOARD"],
+  "input_files_directory": "/Users/kunal/PycharmProjects/text-extractor/input",
+  "project_id" : "documentparser-375712",
+  "location" : "us",
+  "ocr_processor_id" : "19a15adba182517",
+  "form_processor_id" :"84eafff2bf62edc8",
+  "processor_version" : "rc"
+}
